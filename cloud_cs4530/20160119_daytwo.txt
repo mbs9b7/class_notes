@@ -1,0 +1,25 @@
+Grid computing was the precursor to cloud computing. It's basically using compute time when it's not being used. Examples are SETI @ home and Folding @ home. 
+Problem is it's not profitable. Started around 2002. Got big around 2005, and eventually evolved into the cloud. 
+
+Infrastructures are rapidly changing and growing
+
+High Performance Computing:
+	Homogeneous nodes
+	"Speed"
+	Parallelism
+	"Energy efficient"
+	Usually in the same datacenter via MPP
+
+High Throughput Computing:
+	Disparate nodes
+	"Productivity"
+	Work flows
+	"Security" -> federated IAM	
+	often in many places via P2P connections
+
+
+High scale problems usually require both HPC and HTC.
+
+HTC is more in the business world and HPC is more in scientific applications.
+
+But once again, you need both to solve "big" problems
