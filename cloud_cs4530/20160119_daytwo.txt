@@ -23,3 +23,20 @@ High scale problems usually require both HPC and HTC.
 HTC is more in the business world and HPC is more in scientific applications.
 
 But once again, you need both to solve "big" problems
+
+1 server can be a cloud. Called a private cloud because it runs the same software that runs the distributed cloud, but it's not distributed yet. 
+
+Fog Computing is a cloud brought closer to the user. He called it a mobile cloud. 
+
+Dew computing is next. "in three years I will have a class on Fog and dew computing" -professor
+
+"full function" / unconstrained
+	cloud
+
+"reduced function" / constrained
+	fog
+
+
+dew is a combination of fog and cloud working together.
+	have any compute, anywhere, be managed by cloud compute resources. 
+	current problem: How do you get the data from the edge to the could?
