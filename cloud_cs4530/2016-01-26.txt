@@ -1,0 +1,19 @@
+people are the biggest cost in cloud computing. so the "virtualization-management gap" is the biggest cost point
+
+
+Public Cloud
+	ie AWS
+
+Private Cloud
+	ie 1 server - open stack
+
+Community Cloud 
+	
+
+
+1) licenses and images
+2) vdi management solution
+3) hardware
+4) federated IAM
+
+Self Service!
