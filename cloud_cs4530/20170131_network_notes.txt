@@ -1,0 +1,29 @@
+four layers of distributed computing
+
+1) application layer
+	
+	
+2) middleware layer
+	
+
+3) resource layer
+	
+
+4) network layer
+	
+
+
+
+there are "Functions"
+	an application is a combo of functions
+	
+
+and "Services"
+	an OS provides services which can be used to create services
+
+
+network "flows" 
+
+Openflow was used to do network virtualization 
+
+URB is the Unified Resource Broker 
