@@ -17,3 +17,11 @@ Community Cloud
 4) federated IAM
 
 Self Service!
+
+
+
+Photo processing:
+	 user to webserver. webserver to queues and to s3. s3 and queues to photo processing ec2
+
+
+AMIs are custom images. public AMIs are free, privite AMIs are your own. paid AMIs cost money
